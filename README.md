@@ -20,4 +20,7 @@ Final Project
 
 Creating Your Own Notebooks 
 
+## Kaggle Profile
+
+Check out my Kaggle profile for more projects and competitions: [My Kaggle Profile](https://www.kaggle.com/jamsheddf)
 
